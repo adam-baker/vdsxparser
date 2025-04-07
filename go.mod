@@ -1,3 +1,3 @@
-module github.com/adam-baker/vsdxparser
+module github.com/adam-baker/vdsxparser
 
 go 1.24.2
