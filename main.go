@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 
 	"github.com/adam-baker/vdsxparser/parser"
-	"github.com/adam-baker/vsdxparser/structurizr"
+	"github.com/adam-baker/vdsxparser/structurizr"
 )
 
 func main() {

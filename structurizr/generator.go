@@ -2,9 +2,8 @@ package structurizr
 
 import (
 	"fmt"
-	"strings"
-
 	"github.com/adam-baker/vdsxparser/parser"
+	"strings"
 )
 
 func GenerateDSL(shapes []parser.Shape, connections []parser.Connect) (string, error) {
