@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/adam-baker/vdsxparser/parser"
 	"github.com/adam-baker/vdsxparser/structurizr"
